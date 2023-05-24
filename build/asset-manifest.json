@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.bd7fb28d.js",
-    "static/js/787.8d6c0fe7.chunk.js": "/static/js/787.8d6c0fe7.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.d09c13ad.css",
+    "main.js": "/static/js/main.6a9b7307.js",
+    "static/media/liga-logo.svg": "/static/media/liga-logo.bb1ef04cffb2e7c2d1648f30f3cee178.svg",
+    "static/media/it-philosfy.svg": "/static/media/it-philosfy.7bbc771841312c5d2fe55bb00ed28532.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.bd7fb28d.js.map": "/static/js/main.bd7fb28d.js.map",
-    "787.8d6c0fe7.chunk.js.map": "/static/js/787.8d6c0fe7.chunk.js.map"
+    "static/media/user-icon.svg": "/static/media/user-icon.40e9680c8c3008814d76cc622477bd2f.svg",
+    "main.d09c13ad.css.map": "/static/css/main.d09c13ad.css.map",
+    "main.6a9b7307.js.map": "/static/js/main.6a9b7307.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bd7fb28d.js"
+    "static/css/main.d09c13ad.css",
+    "static/js/main.6a9b7307.js"
   ]
 }
